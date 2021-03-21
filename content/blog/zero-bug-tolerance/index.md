@@ -1,6 +1,7 @@
 ---
 title: Zero Bug Tolerance
 date: "2021-02-24T12:00:00.000Z"
+image: "./bug-tolerance.jpg"
 ---
 
 Paavo contacted me about starting RecruitLab (we called it _bestrecruitment_ then) when his [employer branding agency](http://brandem.ee/) could not find a suitable applicant tracking system. They signed with Bullhorn initially but found some promised key features missing.

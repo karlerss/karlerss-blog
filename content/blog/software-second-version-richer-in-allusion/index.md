@@ -1,7 +1,7 @@
 ---
 title: Software Second Version Richer in Allusion
 date: "2021-03-10T12:00:00.000Z"
-image: "./second-version.jpg"
+image: "./second-version2.jpg"
 ---
 
 _Pierre Menard, Author of the Quixote_ is a short story by Argentine writer Jorge Luis Borges. It is a fictional review of a novel that is identical to Cervantes' 1605 _Don Quixote_. Line-for-line, except written in the 20th century and by Mr Menard. The reviewer considers Menard's Quixote to be much richer in allusion than Miguel de Cervantes' "original" work because Menard's must be considered in light of world events since 1602.

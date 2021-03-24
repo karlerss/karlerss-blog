@@ -35,7 +35,7 @@ Even when building a monolith, there's one thing the future you will thank you f
 
 ## Curb your perfectionism
 
-Scott considered sacrificing dogs vile and man-hauling noble. In 1911, to reach the south pole, you had to use dogs, it turns out. If it helps you deliver value to your end-user, an `: any` here and there is perfectly fine.
+Scott considered sacrificing dogs vile and man-hauling noble. In 1911, to reach the south pole, you had to use dogs, it turns out. If it helps you deliver value to your end-user, an `: any`[^1] here and there is perfectly fine.
 
 ## Overprovision
 
@@ -44,3 +44,5 @@ Amundsen's team didn't leave route marking and provision depots to chance. For o
 ## Don't overstretch your team
 
 Scott, in his diary, later acknowledged that "skis are the thing" but found that they were late to take corrective action. Even if machine learning turns out to be the thing and suitable in your domain, telling your full-stack guy to sprinkle some AI on it will probably turn out a waste of time or money.
+
+[^1]: Explanation for a (non-technical) reader: we build our frontend using [TypeScript](https://www.typescriptlang.org/). This language makes it easier to avoid some classes of bugs by annotating all data with a [type](https://en.wikipedia.org/wiki/Data_type). Say a piece of data is of type `Person` then you can be sure that it has `name` and `email` fields associated with it. Sometimes this annotating might be really cumbersome and then you just mark it as `any` type. Marking a piece of data to be of `any` type, forfeits the bug-catching advantages of TypeScript, but might save you a bunch of time.

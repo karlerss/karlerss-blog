@@ -4,7 +4,7 @@ date: "2021-03-27T12:00:00.000Z"
 image: "./virtues-self-confidence-prudence.jpg"
 ---
 
-As a software developer/product engineer, you can build anything and in infinite possible ways. You must also choose the implementation and details which maximize correctness, usability, and usefulness. Self-confidence and prudence will help you navigate between the expectation of quality and the lure of infinite possibilities.
+As a software developer/product engineer, you can build anything and in infinite possible ways. You must also choose the implementation and details which maximize correctness, reliability, usability, and usefulness. Self-confidence and prudence will help you navigate between the expectation of quality and the lure of infinite possibilities.
 
 In Italo Calvino's 1972 novel _Invisible Cities_, an explorer, Marco Polo, tells his emperor Kublai Khan stories of cities in his vast and expanding empire. In Andria[^1], every street follows a planet's orbit. Jobs and ceremonies correspond to the position of stars on that date. The sky and city reflect each other. Marco Polo assumes that the citizens take care not to change anything in the city plan or their habits, but he is shown a theatre under construction, a port, just inaugurated. The inhabitants tell that every change in the city changes the sky a little. So, "before taking any decision, they calculate the risks and advantages for themselves and the city and all worlds." Polo considers them "self-confident and prudent."
 

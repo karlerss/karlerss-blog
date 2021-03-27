@@ -22,7 +22,7 @@ Prudence (contracted from _providentia_, "seeing ahead, sagacity") is the abilit
 
 Balance your prudence with self-confidence. You won't need that Elasticsearch/[Hadoop](https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html)/Kubernetes cluster until you do. Sometimes, to get a fast and honest signal about your new thing's usefulness, it might make sense to break some users existing workflows. Without self-confidence, you get stuck in ambiguity and analysis-paralysis. Making a decision and committing to it is valuable in itself.
 
-The prudence/confidence balance determines seniority. The best way to practice is by making mistakes in a semi-controlled environment, where consequences are real but not an existential threat.
+The prudence/confidence balance determines seniority. Your software can change your users, and it might not. The best way to practice is by making mistakes in a semi-controlled environment, where consequences are real but not an existential threat.
 
 [^1]: Full chapter [here](/img/italo-calvino-invisible-cities-andria.png).
 

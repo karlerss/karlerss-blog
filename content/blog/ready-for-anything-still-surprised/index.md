@@ -8,12 +8,12 @@ At the end of 2019, I was getting tired of exchanging my time for money (consult
 
 Now, I'm not saying I was underpaid. I'm saying the price discovery for the value of my labor had been insufficient. I had quoted the "regular local freelancer price" and got the gig. Maybe the client could have gotten someone of a similar level for a better price, or I could've found a client willing to pay more. Anyway, a market convention set my price, not my skills, or luck even.
 
-I was pretty sure I had what it takes to build a SaaS product - both skills and risk-tolerance-wise. One thing led to another (I'm skipping some false starts here), and I got a lucky message from a domain expert. We've been working on RecruitLab for 437 days now.
+I was pretty sure I had what it takes to build a SaaS product - both skills and risk-tolerance-wise. One thing led to another (I'm skipping some false starts here), and I got a lucky message from a domain expert. We've been working on [RecruitLab](https://recruitlab.co.uk/) for 437 days now.
 
 I was prepared for hard. But my preparedness was theoretical - shaped by survivorship bias and content marketers and funnel-filling VC-s. This is my personal, totally unbiased, and unsponsored account - what surprised me about being the technical founder of a B2B SaaS startup.
 
 ## Taking the "Minimum" Out of MVP
-The gap between "it works" and "it's enjoyable to use" was bigger than I expected. This is where I perceivably hit the limit of my skills. I could put together acceptable UI-s from pre-made components, but I just couldn't "make them pop." For the most critical paths, we outsourced the design. And spent a fair chunk of our limited cash on it. I have collaborated with Artur from UX Estonia before, and once again, they delivered.
+The gap between "it works" and "it's enjoyable to use" was bigger than I expected. This is where I perceivably hit the limit of my skills. I could put together acceptable UI-s from pre-made components, but I just couldn't "make them pop." For the most critical paths, we outsourced the design. And spent a fair chunk of our limited cash on it. I have collaborated with Artur from [UX Estonia](https://uxestonia.ee/) before, and once again, they delivered.
 
 This might be my personal disposition, but making UI changes prescribed in a Figma document feels tedious for me. When writing backend business logic or composing a UI with existing components, it feels like the value per keystroke is so much higher. The payoff from creating a shinier UI diminishes rapidly from some point. When faced with actually doing the CSS work, the level of diminishing utility might feel closer than it really is. When I say: "we don't need to involve a designer here," does it mean I'm lazy or prudent?
 

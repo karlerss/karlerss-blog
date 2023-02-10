@@ -47,7 +47,8 @@ const Bio = () => {
               <p>
                   Written by <strong>{author.name}</strong> {author?.summary || null}
                   {` `} Co-founder at <a href={'https://recruitlab.co.uk'} target={'_blank'}>RecruitLab</a>.
-                  Drop me a line on <a href={'https://www.linkedin.com/in/karl-sander-erss/'} target={'_blank'}>linkedin</a>.
+                  Drop me a line on <a href={'https://www.linkedin.com/in/karl-sander-erss/'} target={'_blank'}>linkedin</a>. 
+                  Check out my <a href={'https://utm.zone/'} target={'_blank'}>Bulk UTM link builder</a>.
               </p>
           </div>
       )}

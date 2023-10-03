@@ -1,6 +1,7 @@
 ---
 title: Migrating Teamdash from MySQL to PostgreSQL
 date: "2023-09-28T12:46:37.121Z"
+image: "./pgvector-mysql.jpg"
 ---
 
 Switching your application’s database engine is a once-per-project (maybe even once-in-a-lifetime)
